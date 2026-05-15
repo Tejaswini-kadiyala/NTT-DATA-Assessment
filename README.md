@@ -28,8 +28,14 @@ Backend
 
 ## Configuration
 
-Add your Gemini API key to the backend configuration. You can either:
-
+Add your Gemini API key to the backend configuration.
+Steps to how to get Gemini API Key
+1. Get a Free API Key from Open Google AI Studio
+2.Sign in with your Google Account
+3.Click Get API Key
+4.Create a new API Key
+5.Copy the key (example key looks likes: ALZaSyXXXXXXXXXXXXXX)
+You can either:
 - Add it to `backend/src/main/resources/application.properties`:
 
 ```properties
